@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Upadhyay
 - 👀 I’m interested in  Web Development
-- 🌱 I’m currently learning Node.Js
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumitpg91@rediffmail.com
 
